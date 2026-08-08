@@ -13,7 +13,7 @@ Your product list is the catalogue customers shop from.
 
 ## Add a product
 
-1. Tap **Products** → **Add product**.  
+1. Tap **Products** → **Add product**.
 2. Fill in:
 
 | Field | Notes |
@@ -24,7 +24,7 @@ Your product list is the catalogue customers shop from.
 | **Categories** | Optional tags for filters — create categories first if needed. |
 | **Active** | On = visible on the storefront. Off = hidden. |
 | **Price** | Selling price in ₹. |
-| **MRP** | Optional “was” price; must be higher than selling price. |
+| **MRP** | Optional "was" price; must be higher than selling price. |
 | **Stock** | Units available for simple products. |
 | **SKU** | Optional internal code. |
 
@@ -34,17 +34,25 @@ Your product list is the catalogue customers shop from.
 
 For products that differ by size, colour, or another option:
 
-1. When creating or editing a product, enable **variants**.  
-2. Define an option name (e.g. *Size*) and values (e.g. *S, M, L*).  
-3. Set **price**, **MRP**, **stock**, and optional image **per variant**.  
-4. Save.
+1. When creating or editing a product, enable **variants**.
+2. Define an **option name** (e.g. *Size*, *Color*, *Material*) and its **values** (e.g. *S, M, L*).
+3. k4cart suggests common values for well-known option names (e.g. XS–XXL for Size, Black/White/Red for Color). You can always type custom values.
+4. You can add a **second option** (e.g. Size + Color) for products that vary in two ways.
+5. Set **price**, **MRP**, **stock**, and optional image **per variant**.
+6. Save.
 
-Customers pick a variant on the product page before adding to cart.
+Customers pick their preferred variant on the product page before adding to cart. Each variant combination gets its own price, stock, and image.
+
+### Variant tips
+
+- Use **preset suggestions** when available — they auto-fill common values and ensure consistent ordering (e.g. S before XL).
+- Each variant can have a different price and stock level.
+- If all variants are out of stock, the product shows as unavailable on the storefront.
 
 ## Edit or unpublish
 
-- Open a product from the list to edit.  
-- Turn **Active** off to hide it without deleting.  
+- Open a product from the list to edit.
+- Turn **Active** off to hide it without deleting.
 - Update stock when inventory changes.
 
 ## Out of stock
@@ -53,12 +61,12 @@ Home can show how many active products are fully out of stock. Restock variants 
 
 ## Plan limits
 
-- **Launch:** up to **100 products** per store  
-- **Growth / Scale:** **unlimited** products  
+- **Launch:** up to **100 products** per store
+- **Growth / Scale:** **unlimited** products
 
 If you hit the Launch limit, upgrade from **Settings → Billing** or see [Plans & limits](../plans/overview.md).
 
 ## Related
 
-- [Categories](./categories.md)  
-- [Collections](./collections.md)  
+- [Categories](./categories.md)
+- [Collections](./collections.md)

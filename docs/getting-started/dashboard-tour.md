@@ -22,8 +22,8 @@ The **merchant dashboard** is where you manage your store. k4cart is designed fo
 
 Open **More** (or the menu icon) for:
 
-- **Categories** — group products for browsing filters  
-- **Collections** — curated product groups (e.g. “New arrivals”) that can appear in storefront navigation  
+- **Categories** — group products for browsing filters
+- **Collections** — curated product groups (e.g. "New arrivals") that can appear in storefront navigation
 
 ## Store header
 
@@ -37,12 +37,12 @@ At the top of the store menu you will usually see:
 
 When setup is incomplete, Home shows **Get [store] ready to sell** with five steps. When setup is complete, you still get:
 
-- Revenue this month  
-- Orders this week  
-- Open orders that need attention  
-- Out-of-stock product count  
-- Checkouts awaiting payment  
-- A short revenue chart and recent open orders  
+- Revenue this month
+- Orders this week
+- Open orders that need attention
+- Out-of-stock product count
+- Checkouts awaiting payment
+- A short revenue chart and recent open orders
 
 ## Next step
 

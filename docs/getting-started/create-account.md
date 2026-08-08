@@ -38,6 +38,18 @@ If you do not see the email, check spam or promotions. You can request a new ver
 2. Enter your email and password.
 3. You land in **Manage stores**, where you can open or create a store.
 
+## Forgot your password?
+
+If you cannot remember your password:
+
+1. Go to [k4cart.com/sign-in](https://k4cart.com/sign-in).
+2. Tap **Forgot password?**.
+3. Enter the email address you signed up with.
+4. Check your email for a reset link.
+5. Tap the link and choose a new password.
+
+The reset link expires after a short time. If it has expired, request a new one from the forgot password page.
+
 ## Next step
 
 [Create your first store →](./create-store.md)

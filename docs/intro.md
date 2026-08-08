@@ -18,8 +18,8 @@ These guides are written for **merchants** (boutique owners, jewellery sellers, 
 - Create a store on a free address like `yourstore.k4cart.com` (and a custom domain on higher plans)
 - Add products with photos, prices in ₹, stock, and size/colour variants
 - Organise your catalogue with categories and collections
-- Accept customer payments that go **directly to your Razorpay account**
-- Set delivery charges and free-shipping thresholds
+- Accept customer payments that go **directly to your Razorpay account** — connect with one click via Razorpay (Connect) or paste your own API keys
+- Set delivery charges — flat rate, per-state, or per-pincode — with optional free-shipping thresholds
 - Publish Terms, Privacy, Refund, and Contact pages from your business details
 - Process orders from Confirmed through to Delivered
 

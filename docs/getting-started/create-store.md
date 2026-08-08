@@ -29,12 +29,12 @@ Your storefront URL becomes:
 https://your-subdomain.k4cart.com
 ```
 
-k4cart suggests a subdomain from your store name. You can edit it. Availability is checked as you type — wait for confirmation that the name is free.
+k4cart suggests a subdomain from your store name. You can edit it. **Availability is checked as you type** — wait for the confirmation that the name is free before proceeding.
 
 :::warning Subdomain rules
-- Lowercase letters, numbers, and hyphens only  
-- Cannot start or end with a hyphen  
-- Some names are reserved and cannot be used  
+- Lowercase letters, numbers, and hyphens only
+- Cannot start or end with a hyphen
+- Some names are reserved and cannot be used
 :::
 
 ## After creation
