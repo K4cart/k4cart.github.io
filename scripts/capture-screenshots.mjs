@@ -51,6 +51,20 @@ async function main() {
   page.setDefaultTimeout(45000);
 
   // ── Marketing / auth ─────────────────────────────────────────────
+  await page.goto(`${BASE}/#pricing`, { waitUntil: 'networkidle' });
+  await page.waitForTimeout(800);
+  const pricing = page.locator('#pricing');
+  if (await pricing.count()) {
+    await pricing.scrollIntoViewIfNeeded();
+    await page.waitForTimeout(400);
+    await pricing.screenshot({
+      path: path.join(OUT, 'marketing-pricing.png'),
+    });
+    console.log('saved', 'marketing-pricing');
+  } else {
+    await shot(page, 'marketing-pricing');
+  }
+
   await page.goto(`${BASE}/sign-in`, { waitUntil: 'networkidle' });
   await page.waitForTimeout(800);
   await shot(page, 'sign-in');

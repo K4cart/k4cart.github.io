@@ -44,7 +44,7 @@ Customers pick their preferred variant on the product page.
 - Use rupee amounts customers recognise (e.g. `1299` for ₹1,299).
 - At least one good photo makes a large difference on mobile.
 - Keep stock accurate so you do not oversell.
-- Launch plan allows **up to 100 products** per store; Growth and Scale allow unlimited.
+- Launch includes **unlimited products** per store.
 
 ## Checklist complete when
 

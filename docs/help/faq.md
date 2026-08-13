@@ -19,12 +19,12 @@ Go to the sign-in page and tap **Forgot password?**. Enter your email and check 
 Choose another name or add a short word (city, brand initials). Rules: lowercase letters, numbers, hyphens; at least 3 characters. Availability is checked as you type.
 
 **Can I use my own domain?**
-Yes on **Growth** and **Scale**. You will need to add DNS records (TXT for ownership verification, CNAME or A records for routing). See [Domains](../settings/domains.md).
+Yes. Launch includes a custom domain. You will need to add DNS records (TXT for ownership verification, CNAME or A records for routing). See [Domains](../settings/domains.md).
 
 ## Products & catalogue
 
 **I cannot add more products.**
-Launch allows **100 products**. Upgrade to Growth or Scale for unlimited products. See [Plans](../plans/overview.md).
+Launch allows **unlimited products**. If you cannot add one, check for an error message, a lapsed subscription, or a form validation issue. See [Plans](../plans/overview.md).
 
 **Customers cannot see my product.**
 Check that the product is **Active**, has stock (or in-stock variants), and that you are viewing the correct storefront URL.
@@ -60,6 +60,9 @@ Open the order and advance the status as you pack and ship. See [Order statuses]
 Yes while it is Confirmed or Processing. Handle refunds through Razorpay when needed.
 
 ## Billing
+
+**How much does k4cart cost?**
+There is one **Launch** plan: **₹299/month** as a launch offer (regular price ₹499/month). It includes 1 store, unlimited products, a subdomain or custom domain, analytics, and payments to your Razorpay account. k4cart does not take a percentage of sales. See [Plans](../plans/overview.md).
 
 **What happens when my trial ends?**
 You need an active subscription to keep full access. Check **Settings → Billing**. Stores may become read-only if the subscription lapses.

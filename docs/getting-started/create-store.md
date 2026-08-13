@@ -39,7 +39,7 @@ k4cart suggests a subdomain from your store name. You can edit it. **Availabilit
 
 ## After creation
 
-You open the store **dashboard** for that store. Your plan may limit how many stores you can create (Launch and Growth: **1 store**; Scale: **up to 3**). See [Plans & limits](../plans/overview.md).
+You open the store **dashboard** for that store. Launch allows **1 store** per account. See [Plans & limits](../plans/overview.md).
 
 ## Next steps
 

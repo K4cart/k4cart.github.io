@@ -61,10 +61,7 @@ Home can show how many active products are fully out of stock. Restock variants 
 
 ## Plan limits
 
-- **Launch:** up to **100 products** per store
-- **Growth / Scale:** **unlimited** products
-
-If you hit the Launch limit, upgrade from **Settings → Billing** or see [Plans & limits](../plans/overview.md).
+Launch includes **unlimited products**. You are limited to **1 store**. See [Plans & limits](../plans/overview.md).
 
 ## Related
 

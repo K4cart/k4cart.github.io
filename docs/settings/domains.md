@@ -36,9 +36,9 @@ You chose this when creating the store. You can change the subdomain later from 
 
 Availability is checked as you type — wait for confirmation that the name is free before saving.
 
-## Custom domain (Growth and Scale)
+## Custom domain
 
-On **Growth** or **Scale**, you can use your own domain (e.g. `www.yourbrand.com` or `shop.yourbrand.com`).
+Launch includes a custom domain. You can use your own address (e.g. `www.yourbrand.com` or `shop.yourbrand.com`) in addition to the free `*.k4cart.com` subdomain.
 
 ### High-level steps
 
@@ -96,6 +96,6 @@ Follow the exact record types shown in the dashboard — they are tailored to yo
 
 You can remove a custom domain at any time. Customers will no longer reach your store at that address. Your free `*.k4cart.com` subdomain continues to work.
 
-## Launch plan note
+## Related
 
-Custom domains require **Growth** or higher. You can still sell on `*.k4cart.com` on Launch. See [Plans & limits](../plans/overview.md).
+Custom domains are included on Launch. See [Plans & limits](../plans/overview.md).

@@ -22,6 +22,8 @@ The **merchant dashboard** is where you manage your store. k4cart is designed fo
 
 Open **More** (or the menu icon) for:
 
+- **Carts** — checkouts that have not finished payment
+- **Analytics** — visitors, orders, and revenue
 - **Categories** — group products for browsing filters
 - **Collections** — curated product groups (e.g. "New arrivals") that can appear in storefront navigation
 
@@ -30,7 +32,7 @@ Open **More** (or the menu icon) for:
 At the top of the store menu you will usually see:
 
 - Your **store name**
-- A link back to **All stores** if you manage more than one (Scale plan)
+- A link back to **All stores** if you manage more than one store
 - **View store** — opens your public storefront in a new tab so you can shop it like a customer
 
 ## Home overview
